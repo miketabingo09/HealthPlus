@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@ap.cx/react-fullpage": "^0.3.0",
+    "aos": "^2.3.4",
+    "sweetalert": "^2.1.2"
+  }
+}
